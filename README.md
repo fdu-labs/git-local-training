@@ -11,3 +11,9 @@ Ce projet me permet d'apprendre à utiliser Git localement.
 ## Progression
 
 J'ai créé mon premier commit Git.
+
+## Documentation
+
+Cette section a été ajoutée dans la branche feature/documentation.
+
+Elle sert à comprendre le fonctionnement des branches Git.
