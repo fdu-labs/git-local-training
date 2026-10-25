@@ -20,3 +20,13 @@ Elle sert à comprendre le fonctionnement des branches Git.
 
 Modification faite depuis le clone du depot.
 Ligne ajoutee pour tester fetch et pull.
+
+## Comment utiliser ce projet
+
+Ce dépôt est utilisé pour apprendre Git et GitHub.
+
+Il permet de pratiquer :
+- La création de branches
+- L'enregistrement de commits
+- La fusion de branches
+- La collaboration avec les pull requests
