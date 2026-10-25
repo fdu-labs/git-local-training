@@ -17,3 +17,5 @@ J'ai créé mon premier commit Git.
 Cette section a été ajoutée dans la branche feature/documentation.
 
 Elle sert à comprendre le fonctionnement des branches Git.
+
+Modification faite depuis le clone du depot.
